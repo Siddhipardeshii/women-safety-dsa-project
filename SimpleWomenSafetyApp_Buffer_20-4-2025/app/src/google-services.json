@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581144089126",
+    "project_id": "simplewomensafetyapp",
+    "storage_bucket": "simplewomensafetyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581144089126:android:f71e4a651954f91a950ce7",
+        "android_client_info": {
+          "package_name": "com.example.simplewomensafetyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJs9pIjvThu2yu-dbJr3Y4OVr9IoxqJBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

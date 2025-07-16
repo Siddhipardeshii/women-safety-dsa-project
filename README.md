@@ -20,12 +20,12 @@ Women Safety App offers a combination of security utilities including live locat
 ### 2. 📍 Help Centers Locator
 - **Algorithm Used**: Haversine (to calculate distances between coordinates).
 - **Input**: CSV file with latitude & longitude of verified help centers.
-- **Output**: Displays 7 nearest help centers using Google Maps API.
+- **Output**: Displays 5 nearest help centers using Google Maps API.
 
 ---
 
 ### 3. 📡 Live Location Sharing
-- Sends current GPS location via **SMS** to the 7 nearest help centers.
+- Sends current GPS location via **SMS** to the 5 nearest help centers.
 - Uses `LocationManager` + `SmsManager`, including Android 13+ permission fallback.
 
 ---
@@ -46,7 +46,7 @@ Women Safety App offers a combination of security utilities including live locat
 ---
 
 ### 6. 🤖 Chatbot (Gemini API Integration)
-- **Gemini API**: Handles safety-related queries (via OkHttp or Gemini SDK).
+- **Gemini API**: Handles safety-related queries (via  Gemini SDK).
 - **Features**:
   - Preloaded suggested questions (via `ArrayList`)
   - Custom query input via textbox
